@@ -5,7 +5,7 @@ FROM php:8.1-apache
 
 # Set the working directory inside the container.
 # This is the directory where Apache will serve files from.
-WORKDIR /var/www/html
+WORKDIR /var/www/index.php
 
 # Copy all the files from your project (the current directory on your computer)
 # into the web root directory inside the container.
