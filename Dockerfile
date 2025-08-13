@@ -2,7 +2,7 @@ FROM php:8.1-apache
 
 # Set the working directory to the web root.
 # For an Apache base image, this is typically /var/www/html.
-WORKDIR /var/www/html
+WORKDIR /var/www/index.php
 
 # Copy all the application files from your repository into the container.
 # The first dot (.) refers to the source directory (your repo root).
