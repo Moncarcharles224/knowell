@@ -70,6 +70,7 @@ https://drive.google.com/file/d/1p0D_2X7S0Juh2ns7MjsqUkJo8m-BMMtV/view?usp=drive
 7. Click on the SQL Tab
 8. Check the database folder and paste the SQL code into phpMyAdmin
 9. Access the site using: localhost/knowwell
+
 (admin account for CRUD:moncarcharles093@gmail.com pass:12345)
 7 Participants
 Charles Moncar — 1704979935
