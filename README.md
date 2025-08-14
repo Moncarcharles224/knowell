@@ -54,12 +54,12 @@ user_progress table:
 
 5. Project Links
 (KNOWWELL WEBSITE)
-Live Site: http://moncarcharles-001-site1.ntempurl.com/login.php
+(http://abtest.xo.je)
 (ADMIN PANEL)
-Admin Panel (CRUD): http://moncarcharles-001-site1.ntempurl.com/admin.php
+Admin Panel (CRUD): http://abtest.xo.je/admin.php
 (VIDEO PRESENTATION)
 https://drive.google.com/file/d/1p0D_2X7S0Juh2ns7MjsqUkJo8m-BMMtV/view?usp=drive_link 
-
+app(https://know-more-4061f.web.app)
 6. How to Access the Site (Via Local Development)
 1. Download XAMPP Control Panel from Google or https://www.apachefriends.org/download.html
 2. Extract the knowwell.zip file
@@ -71,7 +71,7 @@ https://drive.google.com/file/d/1p0D_2X7S0Juh2ns7MjsqUkJo8m-BMMtV/view?usp=drive
 8. Check the database folder and paste the SQL code into phpMyAdmin
 9. Access the site using: localhost/knowwell
 
-(admin account for CRUD:moncarcharles093@gmail.com pass:12345)
+(admin account for CRUD:admin@gmail.com pass:12345)
 7 Participants
 Charles Moncar — 1704979935
 Opoku John -1692843340
